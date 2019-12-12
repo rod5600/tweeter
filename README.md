@@ -1,9 +1,7 @@
 # PROJETO TWIITER API, FRONTEND E APM
 ![](https://ibb.co/N31Ntw7)  
 
-Olá, bem vindos ao meu tutorial de Markdown.  
-Neste tutorial você aprenderá o básico sobre Markdown. 
-Versão em espanhol disponível [aqui](https://github.com/LewisVo/Markdown-Tutorial/blob/master/Translation:Spanish.md).
+
 
 *******
 Tecnolgias Usadas 
@@ -27,12 +25,6 @@ Tecnolgias Usadas
        http://localhost:9090/swagger-ui.html  
 
 
-`SIMPLESMENTE: É APENAS OUTRO TIPO DE ARQUIVO DE TEXTO, COMO .txt .doc .... (agora é .md :risos:) E COM UMA SINTAXE ESPECIAL.`  
-<div id='why'/>  
-
-*Não existe um padrão de Markdown claramente definido. Isso levou à fragmentação, pois fornecedores diferentes escrevem suas próprias variantes do idioma para corrigir falhas ou adicionar recursos faltantes. Uma lista de versões de Markdown está disponível [aqui](https://github.com/jgm/CommonMark/wiki/Markdown-Flavors).*
-
-A partir de agora, este guia se concentrará principalmente na versão Markdown para Github .
 
 ## Como rodar o Projeto local?
 Muito simples :
